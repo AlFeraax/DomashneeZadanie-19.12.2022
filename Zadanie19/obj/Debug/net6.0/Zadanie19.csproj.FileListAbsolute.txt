@@ -1,0 +1,15 @@
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\bin\Debug\net6.0\Zadanie19.exe
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\bin\Debug\net6.0\Zadanie19.deps.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\bin\Debug\net6.0\Zadanie19.runtimeconfig.json
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\bin\Debug\net6.0\Zadanie19.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\bin\Debug\net6.0\Zadanie19.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.csproj.AssemblyReference.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.AssemblyInfoInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.AssemblyInfo.cs
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.csproj.CoreCompileInputs.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\refint\Zadanie19.dll
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.pdb
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\Zadanie19.genruntimeconfig.cache
+C:\Users\AlFeraax\Desktop\DomashneeZadanie 19.12.2022 (Kashirsky)\Zadanie19\obj\Debug\net6.0\ref\Zadanie19.dll
